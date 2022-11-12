@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\ValEngine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\ValEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\ValEngine.csproj",
+        "projectName": "ValEngine",
+        "projectPath": "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\ValEngine.csproj",
+        "packagesPath": "C:\\Users\\pluna\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pluna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.3.5, )"
+            },
+            "Microsoft.WindowsAPICodePack-Shell": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

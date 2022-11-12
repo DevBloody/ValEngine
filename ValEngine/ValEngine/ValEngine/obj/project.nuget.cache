@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kAwpUC7k523RM/EmGzBl7RkBGQvR/4baGHL5Jac+ZgsSkjPINWFkBtrYI+2+xSv1DJdNLoyeQSO96m1ZmgOHbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pluna\\OneDrive\\Desktop\\ValEngine\\ValEngine\\ValEngine\\ValEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pluna\\.nuget\\packages\\guna.ui2.winforms\\2.0.3.5\\guna.ui2.winforms.2.0.3.5.nupkg.sha512",
+    "C:\\Users\\pluna\\.nuget\\packages\\microsoft.windowsapicodepack-core\\1.1.0\\microsoft.windowsapicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\pluna\\.nuget\\packages\\microsoft.windowsapicodepack-shell\\1.1.0\\microsoft.windowsapicodepack-shell.1.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
